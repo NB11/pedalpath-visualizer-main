@@ -1,8 +1,6 @@
 # CycleTracker - GPX Route Visualizer
 
-## Live Demo
 
-🌐 **Published Site:** [Add your published site link here]
 
 ## Features
 
