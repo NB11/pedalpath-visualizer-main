@@ -1,5 +1,6 @@
 # CycleTracker - GPX Route Visualizer
 
+[![PedalPath](https://img.shields.io/badge/Pedal%20Path%20Map-View%20App-blue)](https://nb11.github.io/pedalpath-visualizer-main/)
 
 
 ## Features
